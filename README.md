@@ -1,5 +1,5 @@
 # 💫About Me :
-👋 Hi there! I'm @KrakenEngineer
+👋 Hi there! I'm @VkareGit
 
 🌱 Currently, I'm further developing my skills in C++ and Python.
 
