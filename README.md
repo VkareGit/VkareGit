@@ -1,6 +1,8 @@
 # 💫About Me :
 👋 Hi there! I'm @KrakenEngineer
+
 🌱 Currently, I'm further developing my skills in C++ and Python.
+
 💞️ I'm eager to collaborate on exciting projects and innovative ideas.
 
 # 💻Tech Stack
